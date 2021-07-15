@@ -30,6 +30,21 @@
 
 <br/>
 
+Install Typescript
+
+```bash
+npm i -g typescript
+
+tsc --version
+Version 4.9.3
+
+ts-node hello.ts
+```
+
+<br/>
+
+<br/>
+
 ##### Reference
 
 - https://basarat.gitbook.io/typescript/
