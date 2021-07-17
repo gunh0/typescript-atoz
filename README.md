@@ -61,10 +61,12 @@ ts-node hello.ts
 <br/>
 
 ### Source Code
+
 ```
 .
 ├── 00_ESNext-core
 │   └── 1_dstructuring-assignment.ts
+│   └── 2_arrow-function.ts
 ```
 
 ### Reference
